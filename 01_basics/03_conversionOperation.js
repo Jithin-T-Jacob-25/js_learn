@@ -5,14 +5,14 @@ let score3 = null
 let score4 = undefined
 let score5 = true //if value is false then output is 0
 
-console.log(typeof(score));
+console.log(typeof(score)); //1
 
-console.log(typeof score);
-console.log(typeof score1);
-console.log(typeof score2);
-console.log(typeof score3);
-console.log(typeof score4);
-console.log(typeof score5);
+console.log(typeof score); //2
+console.log(typeof score1); //3
+console.log(typeof score2); //4
+console.log(typeof score3); //5
+console.log(typeof score4); //6
+console.log(typeof score5); //7
 
 console.log("-------------------------------");
 
